@@ -1,0 +1,6 @@
+{
+  "name": "BetCalculator",
+  "description": "Calculadora profesional de apuestas seguras (surebets) con balanceo automático de stakes, optimización de redondeo y seguimiento de ROI en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
